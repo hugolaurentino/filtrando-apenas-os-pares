@@ -27,9 +27,10 @@ Usando o conceito do forof uma das formas de repetição com if
 </p>
 
 ---
-<!-- <h1 align='center'>
+<h1 align='center'>
  <img alt='Readme' title='Readme' src='./assets/execucao.gif' />
-</h1> -->
+</h1>
+
 const original = [1, 4, 12, 21, 53, 88, 112];
 
 ---
